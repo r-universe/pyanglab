@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "AdaSampling"]
+	path = AdaSampling
+	url = https://github.com/pyanglab/adasampling
+	shallow = true
+	registered = true
