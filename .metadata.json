@@ -1,1 +1,6 @@
-[]
+[
+  {
+    "package": "AdaSampling",
+    "oncran": true
+  }
+]
