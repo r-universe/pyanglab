@@ -2,5 +2,13 @@
   {
     "package": "AdaSampling",
     "oncran": true
+  },
+  {
+    "package": "ClueR",
+    "oncran": true
+  },
+  {
+    "package": "directPA",
+    "oncran": true
   }
 ]

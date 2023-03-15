@@ -8,3 +8,13 @@
 	url = https://github.com/pyanglab/adasampling
 	shallow = true
 	registered = true
+[submodule "ClueR"]
+	path = ClueR
+	url = https://github.com/pyanglab/cluer
+	shallow = true
+	registered = true
+[submodule "directPA"]
+	path = directPA
+	url = https://github.com/pyanglab/directpa
+	shallow = true
+	registered = true
