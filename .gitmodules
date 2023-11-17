@@ -5,6 +5,9 @@
 [submodule "AdaSampling"]
 	path = AdaSampling
 	url = https://github.com/pyanglab/adasampling
+[submodule "ClueR"]
+	path = ClueR
+	url = https://github.com/pyanglab/cluer
 [submodule "directPA"]
 	path = directPA
 	url = https://github.com/pyanglab/directpa
